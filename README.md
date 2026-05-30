@@ -86,17 +86,10 @@ Customer-Churn-Prediction/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-│
-├── data/
-│   └── customer_churn_data.csv
-│
-├── model/
-│   └── randomforest_churn_model.pkl
-│
-├── notebooks/
-│   └── new_nb.ipynb
-│
-└── images/
+│── customer_churn_data.csv
+│── randomforest_churn_model.pkl
+│── new_nb.ipynb
+
 ```
 
 ---
